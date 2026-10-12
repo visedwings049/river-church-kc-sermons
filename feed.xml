@@ -7,61 +7,74 @@
     <language>en-us</language>
     <itunes:author>The River Church of Kansas City</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Religion &amp;amp; Spirituality" />
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://visedwings049.github.io/river-church-kc-sermons/artwork.jpg" />
+    <itunes:owner>
+      <itunes:name>The River Church of Kansas City</itunes:name>
+      <itunes:email>media@slumberrealms.info</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp;amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
     <item>
       <title>Having a Heavenly Point of View Changes Everything</title>
-      <pubDate>Mon, 12 Oct 2026 11:15:27 GMT</pubDate>
-      <guid>https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_1.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_1.mp3</guid>
       <link>https://www.youtube.com/@theriverchurchofkansascity/streams/videos</link>
       <enclosure url="https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_1.mp3" length="61698212" type="audio/mpeg" />
       <itunes:duration>02:08:32</itunes:duration>
       <itunes:author>The River Church of Kansas City</itunes:author>
-      <description>"Get ready to experience a heavenly point of view with Pastor [Name] as he delivers a powerful message from 2 Kings chapter 6, verse 8. Learn how to navigate the spiritual battles of life with faith and trust in God's plan, and discover the secrets to staying watchful and prepared for the challenges that lie ahead. Join us as we explore what it means to have a heavenly perspective and live a life that's guided by God's wisdom and providence."</description>
-      <content:encoded>&lt;![CDATA["Get ready to experience a heavenly point of view with Pastor [Name] as he delivers a powerful message from 2 Kings chapter 6, verse 8. Learn how to navigate the spiritual battles of life with faith and trust in God's plan, and discover the secrets to staying watchful and prepared for the challenges that lie ahead. Join us as we explore what it means to have a heavenly perspective and live a life that's guided by God's wisdom and providence."]]&gt;</content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Get ready to experience a heavenly point of view with Pastor [Name] as he delivers a powerful message from 2 Kings chapter 6, verse 8. Learn how to navigate the spiritual battles of life with faith and trust in God's plan, and discover the secrets to staying watchful and prepared for the challenges that lie ahead. Join us as we explore what it means to have a heavenly perspective and live a life that's guided by God's wisdom and providence.</description>
+      <itunes:summary>Get ready to experience a heavenly point of view with Pastor [Name] as he delivers a powerful message from 2 Kings chapter 6, verse 8. Learn how to navigate the spiritual battles of life with faith and trust in God's plan, and discover the secrets to staying watchful and prepared for the challenges that lie ahead. Join us as we explore what it means to have a heavenly perspective and live a life that's guided by God's wisdom and providence.</itunes:summary>
     </item>
     <item>
       <title>Standing Still in the Storm of Spiritual Warfare</title>
-      <pubDate>Mon, 12 Oct 2026 11:15:59 GMT</pubDate>
-      <guid>https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_2.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_2.mp3</guid>
       <link>https://www.youtube.com/@theriverchurchofkansascity/streams/videos</link>
       <enclosure url="https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_2.mp3" length="79896991" type="audio/mpeg" />
       <itunes:duration>02:46:27</itunes:duration>
       <itunes:author>The River Church of Kansas City</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
       <description>In this powerful sermon, Pastor [Name] shares a heart-stopping account of a spiritual attack that left him on the brink of death, but God's intervention and the congregation's prayers proved to be the difference between life and loss. With raw honesty and spiritual insight, Pastor [Name] reveals the lessons he learned in the midst of this battle and how he fought back against the enemy's schemes. Listen as he shares a powerful lesson on standing strong in faith, even when the battle gets fierce.</description>
-      <content:encoded>&lt;![CDATA[In this powerful sermon, Pastor [Name] shares a heart-stopping account of a spiritual attack that left him on the brink of death, but God's intervention and the congregation's prayers proved to be the difference between life and loss. With raw honesty and spiritual insight, Pastor [Name] reveals the lessons he learned in the midst of this battle and how he fought back against the enemy's schemes. Listen as he shares a powerful lesson on standing strong in faith, even when the battle gets fierce.]]&gt;</content:encoded>
+      <itunes:summary>In this powerful sermon, Pastor [Name] shares a heart-stopping account of a spiritual attack that left him on the brink of death, but God's intervention and the congregation's prayers proved to be the difference between life and loss. With raw honesty and spiritual insight, Pastor [Name] reveals the lessons he learned in the midst of this battle and how he fought back against the enemy's schemes. Listen as he shares a powerful lesson on standing strong in faith, even when the battle gets fierce.</itunes:summary>
     </item>
     <item>
       <title>Standing Firm in the Face of Spiritual Attack</title>
-      <pubDate>Mon, 12 Oct 2026 11:16:17 GMT</pubDate>
-      <guid>https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_3.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_3.mp3</guid>
       <link>https://www.youtube.com/@theriverchurchofkansascity/streams/videos</link>
       <enclosure url="https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_3.mp3" length="79896991" type="audio/mpeg" />
       <itunes:duration>02:46:27</itunes:duration>
       <itunes:author>The River Church of Kansas City</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
       <description>Join Pastor [Name] as he shares a powerful testimony of spiritual warfare and the triumph of faith over physical attack. Hear the incredible story of how God intervened in the midst of a life-threatening situation, and discover the secrets to standing firm against enemy attacks and experiencing breakthrough in the face of adversity. This sermon will leave you inspired and equipped to face your own battles with confidence and faith.</description>
-      <content:encoded>&lt;![CDATA[Join Pastor [Name] as he shares a powerful testimony of spiritual warfare and the triumph of faith over physical attack. Hear the incredible story of how God intervened in the midst of a life-threatening situation, and discover the secrets to standing firm against enemy attacks and experiencing breakthrough in the face of adversity. This sermon will leave you inspired and equipped to face your own battles with confidence and faith.]]&gt;</content:encoded>
+      <itunes:summary>Join Pastor [Name] as he shares a powerful testimony of spiritual warfare and the triumph of faith over physical attack. Hear the incredible story of how God intervened in the midst of a life-threatening situation, and discover the secrets to standing firm against enemy attacks and experiencing breakthrough in the face of adversity. This sermon will leave you inspired and equipped to face your own battles with confidence and faith.</itunes:summary>
     </item>
     <item>
       <title>Standing in the Fire and Praising Your Way to Breakthrough</title>
-      <pubDate>Mon, 12 Oct 2026 11:16:40 GMT</pubDate>
-      <guid>https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_4.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_4.mp3</guid>
       <link>https://www.youtube.com/@theriverchurchofkansascity/streams/videos</link>
       <enclosure url="https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_4.mp3" length="79896991" type="audio/mpeg" />
       <itunes:duration>02:46:27</itunes:duration>
       <itunes:author>The River Church of Kansas City</itunes:author>
-      <description>"Join us as we hear a powerful testimony of faith and perseverance in the face of spiritual attack. This week's sermon is a gripping account of one woman's battle with the enemy, where she refused to give up, even when her body was weakened and she was on the verge of collapse. You'll be inspired and challenged to stand firm in your faith, no matter what obstacles you may be facing."</description>
-      <content:encoded>&lt;![CDATA["Join us as we hear a powerful testimony of faith and perseverance in the face of spiritual attack. This week's sermon is a gripping account of one woman's battle with the enemy, where she refused to give up, even when her body was weakened and she was on the verge of collapse. You'll be inspired and challenged to stand firm in your faith, no matter what obstacles you may be facing."]]&gt;</content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Join us as we hear a powerful testimony of faith and perseverance in the face of spiritual attack. This week's sermon is a gripping account of one woman's battle with the enemy, where she refused to give up, even when her body was weakened and she was on the verge of collapse. You'll be inspired and challenged to stand firm in your faith, no matter what obstacles you may be facing.</description>
+      <itunes:summary>Join us as we hear a powerful testimony of faith and perseverance in the face of spiritual attack. This week's sermon is a gripping account of one woman's battle with the enemy, where she refused to give up, even when her body was weakened and she was on the verge of collapse. You'll be inspired and challenged to stand firm in your faith, no matter what obstacles you may be facing.</itunes:summary>
     </item>
     <item>
       <title>Standing Firm in the Face of Spiritual Attack</title>
-      <pubDate>Mon, 12 Oct 2026 11:16:57 GMT</pubDate>
-      <guid>https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_5.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="false">https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_5.mp3</guid>
       <link>https://www.youtube.com/@theriverchurchofkansascity/streams/videos</link>
       <enclosure url="https://visedwings049.github.io/river-church-kc-sermons/episodes/TEST_SERMON_5.mp3" length="79896991" type="audio/mpeg" />
       <itunes:duration>02:46:27</itunes:duration>
       <itunes:author>The River Church of Kansas City</itunes:author>
-      <description>"Join us for this powerful testimony of faith and victory in the face of spiritual attack. Pastor shares his personal story of near-death experiences, demonic warfare, and the miraculous intervention of God, highlighting the importance of standing firm in faith even when the enemy tries to bring us down. Don't miss this encouraging message that will leave you praising God for His unwavering power and love."</description>
-      <content:encoded>&lt;![CDATA["Join us for this powerful testimony of faith and victory in the face of spiritual attack. Pastor shares his personal story of near-death experiences, demonic warfare, and the miraculous intervention of God, highlighting the importance of standing firm in faith even when the enemy tries to bring us down. Don't miss this encouraging message that will leave you praising God for His unwavering power and love."]]&gt;</content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Join us for this powerful testimony of faith and victory in the face of spiritual attack. Pastor shares his personal story of near-death experiences, demonic warfare, and the miraculous intervention of God, highlighting the importance of standing firm in faith even when the enemy tries to bring us down. Don't miss this encouraging message that will leave you praising God for His unwavering power and love.</description>
+      <itunes:summary>Join us for this powerful testimony of faith and victory in the face of spiritual attack. Pastor shares his personal story of near-death experiences, demonic warfare, and the miraculous intervention of God, highlighting the importance of standing firm in faith even when the enemy tries to bring us down. Don't miss this encouraging message that will leave you praising God for His unwavering power and love.</itunes:summary>
     </item>
   </channel>
 </rss>
